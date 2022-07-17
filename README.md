@@ -7,6 +7,6 @@ my name is **Hachem Betrouni**, I am a Data Science and AI student from Algeria 
 - 📫 Reach me at: hachem.betrouni@g.enp.edu.dz
 - ⚡ Fun fact about me : I never owned a smart phone 📱.
 
-<a href="https://1hachem.github.io/"><img src="https://img.shields.io/static/v1?label=link to&message=site&color=green"></a>
-<a href="https://1hachem.github.io/assets/documents/AIhacktunisia.pdf"><img src="https://img.shields.io/static/v1?label=link to&message=resume&color=blue"></a> 
+<a href="https://1hachem.github.io/"><img src="https://img.shields.io/static/v1?label=link to&message=My site&color=green"></a>
+<a href="https://1hachem.github.io/assets/documents/AIhacktunisia.pdf"><img src="https://img.shields.io/static/v1?label=link to&message=My resume&color=blue"></a> 
 
