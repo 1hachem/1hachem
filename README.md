@@ -18,9 +18,10 @@ my name is **Hachem Betrouni**, I am a Data Science and AI student from Algeria 
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=lightgrey">&nbsp;\
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&color=lightgrey">&nbsp;\
 <img src="https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=007ACC&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-vs%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=google-colab&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora&color=lightgrey">&nbsp;
 
 ### learn more
