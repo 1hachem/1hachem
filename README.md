@@ -14,19 +14,23 @@ my name is **Hachem Betrouni**, I am a Data Science and AI student from Algeria 
 <img src="https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-tesnorflow-05122A?style=flat&logo=tensorflow&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=lightgrey">\
 <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=000000&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&color=lightgrey">&nbsp;\
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&color=lightgrey">&nbsp;\
 <img src="https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=007ACC&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-vsCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=google-colab&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-Joplin-05122A?style=flat&logo=Joplin&color=lightgrey">&nbsp;
+
+
+
 
 ### learn more
 <a href="https://1hachem.github.io/"><img src="https://img.shields.io/static/v1?label=link to&message=My site&color=blue"></a>
 <a href="https://1hachem.github.io/assets/documents/AIhacktunisia.pdf"><img src="https://img.shields.io/static/v1?label=link to&message=My resume&color=orange"></a> 
 <a href="https://www.linkedin.com/in/hachem-betrouni/"><img src="https://img.shields.io/static/v1?label=&logo=linkedin&message=linkedin&color=blue"></a>
 <a href="https://www.upwork.com/freelancers/~01b79e4e53cd1ca324"><img src="https://img.shields.io/static/v1?label=&logo=upwork&message=Upwork&color=yellow"></a>
+
