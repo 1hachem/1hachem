@@ -9,23 +9,20 @@ my name is **Hachem Betrouni**, I am a Data Science and AI student from Algeria 
 - 📫 Reach me at: hachem.betrouni@g.enp.edu.dz
 - 🤫 Fun fact about me : I never owned a smartphone 📱.
 
-
 ### tools I use 
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-tesnorflow-05122A?style=flat&logo=tensorflow&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=000000&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&color=lightgrey">&nbsp;\
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-vsCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=google-colab&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=lightgrey">&nbsp;\
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=007ACC&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-vsCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=google-colab&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-Logseq-05122A?style=flat&logo=Logseq&color=lightgrey">&nbsp;
-
+<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&color=lightgrey">&nbsp;
 
 
 
