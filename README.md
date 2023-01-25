@@ -24,7 +24,7 @@ my name is **Hachem Betrouni**, I am a Data Science and AI student from Algeria 
 <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=google-colab&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=lightgrey">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=lightgrey">&nbsp;
-<img src="https://img.shields.io/badge/-Joplin-05122A?style=flat&logo=Joplin&color=lightgrey">&nbsp;
+<img src="https://img.shields.io/badge/-Logseq-05122A?style=flat&logo=Logseq&color=lightgrey">&nbsp;
 
 
 
