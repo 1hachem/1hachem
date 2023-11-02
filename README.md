@@ -9,7 +9,7 @@ It's Hachem, I am an AI engineer from Algeria
 - Fun fact about me : I never owned a smartphone and I use Arch btw.
 
 ### learn more
-<a href="https://www.1hachem.xyz">www.1hachem.xyz</a>
+<a href="https://www.1hachem.xyz">website</a>
 <br/>
-<a href="https://www.linkedin.com/in/hachem-betrouni/">my linkedin</a>
+<a href="https://www.linkedin.com/in/hachem-betrouni/">linkedin</a>
 
