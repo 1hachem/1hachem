@@ -1,4 +1,4 @@
-### Salam alikum 👋
+### Salam alikum 👋🏽
 
 It's Hachem, I am an AI engineer and amature mycologist from Algeria 🇩🇿
 
