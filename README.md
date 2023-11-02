@@ -1,6 +1,6 @@
 ### As-salamu alaykum 👋🏽
 
-It's Hachem, I am an AI engineer and amature mycologist from Algeria 🇩🇿
+It's Hachem, I am an AI engineer from Algeria
 
 - I am currently working as CTO at <a href="https://big-mama.io">BIGmama Technology</a>.
 - I worked as an AI research intern at <a href="https://www.instadeep.com/">InstaDeep</a>. 
