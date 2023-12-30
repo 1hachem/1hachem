@@ -6,8 +6,8 @@ It's Hachem, I am an AI engineer from Algeria
 - Reach me at: hachem.betrouni@g.enp.edu.dz
 - Fun fact about me : I never owned a smartphone and I use Arch btw.
 
-### learn more
-<a href="https://www.1hachem.xyz">website</a>
-<br/>
-<a href="https://www.linkedin.com/in/hachem-betrouni/">linkedin</a>
-
+<h4 align="center">
+▪︎ <a href="https://www.1hachem.xyz">Website</a> ▪︎
+<a href="https://www.linkedin.com/in/hachem-betrouni/">Linkedin</a> ▪︎
+<br/><br/>
+</h4>
