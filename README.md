@@ -7,7 +7,7 @@ It's Hachem form earth 🌍
 
 <h4 align="center">
 ▪︎ <a href="https://www.1hachem.xyz">Website</a> ▪︎
-<a href="https://www.linkedin.com/in/hachem-betrouni/">Linkedin</a> ▪︎
+<a href="https://bsky.app/profile/1hachem.bsky.social">Bluesky</a> ▪︎
 <br/><br/>
 </h4>
 
