@@ -6,8 +6,6 @@ It's Hachem form earth 🌍
 - Reach me at: hachem.betrouni@g.enp.edu.dz
 
 <h4 align="center">
-▪︎ <a href="https://www.1hachem.xyz">Website</a> ▪︎
-<a href="https://bsky.app/profile/1hachem.bsky.social">Bluesky</a> ▪︎
-<br/><br/>
+▪︎ <a href="https://www.1hachem.xyz">My website</a> ▪︎
 </h4>
 
