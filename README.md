@@ -1,2 +1,3 @@
-It's Hachem form earth 🌍
-I am currently CTO at <a href="https://github.com/bigmama-technology/">BIGmama Technology</a>, we are building <a href="https://hyko.ai/">hyko.ai</a>.
+Previously builder at <a href="https://hyko.ai/">hyko.ai</a>
+Now working on <a href="https://github.com/1hachem/lisptc">lisptc</a>
+Looking for a remote job as a founding AI software engineer
